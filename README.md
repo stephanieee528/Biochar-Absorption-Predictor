@@ -1,5 +1,4 @@
 
-
 1. Overview
 
 This project provides a user-friendly Graphical User Interface (GUI) application for predicting the uranium adsorption capacity of acid-modified biochar. Developed in Python, it integrates a pre-trained and optimized CatBoost regression model to offer instant predictions and, crucially, quantile-based confidence intervals​ to quantify prediction uncertainty.
